@@ -1,0 +1,31 @@
+body {
+  background-color: #575656 !important; }
+
+.container {
+  margin-top: 0.3%; }
+  .container label {
+    color: #777;
+    font-size: 1em; }
+  .container .form-inline {
+    margin-left: 25%; }
+
+.t1 {
+  background-color: #C4C4C4;
+  padding: 15px;
+  border-radius: 15px; }
+
+table {
+  color: #575656 !important;
+  margin-bottom: 0 !important; }
+  table td {
+    padding: 6px !important;
+    text-align: center; }
+    table td input {
+      text-align: center;
+      width: 100%; }
+
+.sub {
+  margin: 1% !important;
+  margin-left: 40% !important; }
+
+/*# sourceMappingURL=style.css.map */
